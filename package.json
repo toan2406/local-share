@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "localshare": "app.js"
+    "localshare": "localshare.js"
   },
   "author": "",
   "license": "ISC",
