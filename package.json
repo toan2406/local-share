@@ -1,0 +1,23 @@
+{
+  "name": "local-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "localshare": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.11.0",
+    "express": "^4.15.3",
+    "ip": "^1.1.5",
+    "serve-index": "^1.9.0",
+    "serve-static": "^1.12.3"
+  }
+}
